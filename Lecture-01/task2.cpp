@@ -3,10 +3,10 @@
 using namespace std;
 int main()
 {
-    int r, area;
+    float r, area;
     cout << "Enter Radius : " << endl;
     cin >> r;
-    area = 2 * r * r;
+    area = 3.14 * r * r;
     cout << "Area of circle = " << area;
     return 0;
 }
