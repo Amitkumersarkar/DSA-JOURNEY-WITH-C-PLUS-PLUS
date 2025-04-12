@@ -1,4 +1,4 @@
-// Find the area of a square
+// Find the area of an square
 #include <iostream>
 using namespace std;
 int main()
