@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// variable declaration
 int main()
 {
     int age = 25;

@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// type casting conversion
+// type casting conversion method 01
 
 int main()
 {
