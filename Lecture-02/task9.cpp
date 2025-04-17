@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+// relational operator
+int main()
+{
+    int a = 5, b = 7;
+    cout << (a > b) << endl;
+    cout << (a < b) << endl;
+    cout << (a >= b) << endl;
+    cout << (a <= b) << endl;
+    return 0;
+}
