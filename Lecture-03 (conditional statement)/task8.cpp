@@ -8,7 +8,7 @@ int main()
     int count = 1;
     while (count <= n)
     {
-
+        cout << "The number is : " << endl;
         cout << count << endl;
         count++;
     }
